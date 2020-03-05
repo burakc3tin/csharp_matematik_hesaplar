@@ -1,0 +1,6 @@
+C:\Users\burakc3tin\source\repos\matematik_hesaplama\matematik_hesaplama\bin\Debug\matematik_hesaplama.exe.config
+C:\Users\burakc3tin\source\repos\matematik_hesaplama\matematik_hesaplama\bin\Debug\matematik_hesaplama.exe
+C:\Users\burakc3tin\source\repos\matematik_hesaplama\matematik_hesaplama\bin\Debug\matematik_hesaplama.pdb
+C:\Users\burakc3tin\source\repos\matematik_hesaplama\matematik_hesaplama\obj\Debug\matematik_hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\burakc3tin\source\repos\matematik_hesaplama\matematik_hesaplama\obj\Debug\matematik_hesaplama.exe
+C:\Users\burakc3tin\source\repos\matematik_hesaplama\matematik_hesaplama\obj\Debug\matematik_hesaplama.pdb
